@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="remove_from_favorite">Remove From Favorite</string>
+    <string name="favorite_activity">Favorites Activity</string>
+    <string name="dialog_title_error">Connection Error</string>
+    <string name="dialog_msg_error">No Internet Connection,check your settings</string>
+    <string name="dialog_ok_button">OK</string>
+    <string name="unsupported_uri">Unsupported Uri</string>
+    <string name="failed_to_update">Failed to update row into:</string>
+    <string name="failed_to_delete">Failed to delete row into:</string>
+    <string name="failed_to_insert">Failed to Insert into:</string>
+    <string name="details_activity">Details Activity</string>
+    <string name="news_added_successfully">News Added Successfully</string>
+    <string name="news_removed_successfully">News Removed Successfully</string>
+    <string name="read_more_btn">Read More</string>
+    <string name="msg_no_favorite_found">There is no favorite news found</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="img_desc">News Image</string>
+    <string name="img_app_lancher">Image Icon Launcher</string>
+    <string-array name="categories_tab">
+        <item>business</item>
+        <item>health</item>
+        <item>sports</item>
+    </string-array>
+
+</resources>
